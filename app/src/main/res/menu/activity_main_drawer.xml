@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/menu1"
+        android:title="Sequence #1 - Arrival"/>
+    <item
+        android:id="@+id/menu2"
+        android:title="Sequence #2 - Joel Request"/>
+    <item
+        android:id="@+id/menu3"
+        android:title="Sequence #3 - Cancel Ride (Courtney)"/>
+
+    <item
+        android:id="@+id/menu4"
+        android:title="Sequence #3 - Cancel Ride (Mags)"/>
+
+    <item
+        android:id="@+id/menu5"
+        android:title="Sequence #4 - On Trip (Courtney)"/>
+
+    <item
+        android:id="@+id/menu6"
+        android:title="Sequence #4 - On Trip (Mags)"/>
+
+    <item
+      android:id="@+id/menu7"
+      android:title="Sequence #5 - Arrived"/>
+
+    <item
+        android:id="@+id/menu8"
+        android:title="Sequence #6 - Online Map"/>
+
+    <item
+        android:id="@+id/menu9"
+        android:title="Settings"/>
+  </group>
+
+</menu>
